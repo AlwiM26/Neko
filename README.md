@@ -18,7 +18,7 @@ A custom version of the [Chocofi keyboard](https://github.com/pashutk/chocofi). 
   ![Diode orientation](images/diodes.png)
 - Solder all the kailh hotswap socket on the bottom side
 - ( Optional for wireless build )Solder power switch on the bottom side, after that, make sure to switch it off so that nothing happen when we solder the battery
-  ![Power switch](power-off.jpeg)
+  ![Power switch](images/power-off.jpeg)
 - Solder the reset switch on the top side
 - ( Optional for **wired** build) Solder the TRRS connector on the top side
 - Solder the controller hotswap socket on the top side
@@ -26,7 +26,7 @@ A custom version of the [Chocofi keyboard](https://github.com/pashutk/chocofi). 
 - Remove the controller from the hotswap socket
 - ( Optional for wireless build ) _Carefully_ solder battery wires to the connector, ensuring not to short the wires together, secure the other wire with masking tape, solder the black wire to the negative pad, and red wire to the positive pad
 - ( Optional for wireless build ) Solder the battery Jumper ( labeled as RAW ) on the bottom side
-  ![RAW](battery-raw.jpeg)
+  ![RAW](images/battery-raw.jpeg)
 
 ## Firmware
 
