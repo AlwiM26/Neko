@@ -29,4 +29,4 @@ A custom version of the [Chocofi keyboard](https://github.com/pashutk/chocofi). 
 - ( Optional for **wireless** build ) Solder the battery Jumper ( labeled as RAW ) on the bottom side
   ![RAW](images/battery-raw.jpeg)
 
-If you using a wireless controller, you can use the [ZMK firmware](https://zmk.dev), and edit the keymap using the [Keymap editor](https://nickcoutsos.github.io/keymap-editor/) by Nickcoutsos. If you using a wired controller, you can use [QMK firmware](https://qmk.fm/), and edit the layout using [Via app](https://www.caniusevia.com/)
+If you using a wireless controller, you can download my firmware [here](https://github.com/AlwiM26/zmk-config-neko/actions), or you can build your own firmware using the [ZMK firmware](https://zmk.dev), and edit the keymap using the [Keymap editor](https://nickcoutsos.github.io/keymap-editor/) by Nickcoutsos. If you using a wired controller, you can use [QMK firmware](https://qmk.fm/), and edit the layout using [Via app](https://www.caniusevia.com/)
